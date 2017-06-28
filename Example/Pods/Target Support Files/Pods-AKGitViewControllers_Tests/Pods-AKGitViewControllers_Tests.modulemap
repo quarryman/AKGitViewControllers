@@ -1,0 +1,6 @@
+framework module Pods_AKGitViewControllers_Tests {
+  umbrella header "Pods-AKGitViewControllers_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

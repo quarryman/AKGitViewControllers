@@ -1,0 +1,22 @@
+{
+  "name": "AKGitViewControllers",
+  "version": "0.1.0",
+  "summary": "A short description of AKGitViewControllers.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/quarryman/AKGitViewControllers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "quarryman": "seomasterweb@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/quarryman/AKGitViewControllers.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AKGitViewControllers/Classes/**/*"
+}

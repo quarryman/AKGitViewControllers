@@ -1,0 +1,6 @@
+framework module AKGitViewControllers {
+  umbrella header "AKGitViewControllers-umbrella.h"
+
+  export *
+  module * { export * }
+}
