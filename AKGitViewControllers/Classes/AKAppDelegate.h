@@ -1,5 +1,5 @@
 //
-//  AKViewController.h
+//  AKAppDelegate.h
 //  AKGitViewControllers
 //
 //  Created by quarryman on 06/27/2017.
@@ -8,8 +8,8 @@
 
 @import UIKit;
 
-@interface AKViewController : UIViewController
+@interface AKAppDelegate : UIResponder <UIApplicationDelegate>
 
-- (void)placeALabelOnVC;
+@property (strong, nonatomic) UIWindow *window;
 
 @end
